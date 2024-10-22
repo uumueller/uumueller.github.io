@@ -1,0 +1,862 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="author"
+ content="Ursula U. Mueller, Texas A&amp;M University,
+          Department of Statistics">
+  <meta name="description"
+ content="Ursula U. M&uuml;ller - Publications and Preprints">
+  <title>Ursula U. M&uuml;ller - Research</title>
+</head><body style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"
+ alink="#cc33cc" link="#333399" vlink="#666666">
+<big style="color: rgb(51, 51, 153);"><defanged_meta name="GENERATOR"
+ content="Mozilla/4.72 [en] (Windows NT 5.0; U) [Netscape]"> <b><font
+ face="Helvetica, Arial, sans-serif"> <font size="-1"><big><a
+ href="../index.html">Ursula U. M&uuml;ller</a> - Research</big>
+</font></font></b></defanged_meta></big>
+
+<p> <br> </p>
+
+<p
+ style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 153);"><b><font
+ face="Helvetica, Arial, sans-serif"> <font size="-1">Research
+interests</font></font></b></p>
+<p style="background-color: rgb(255, 255, 255);"> </p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"> <font
+ size="-1">
+
+<ul>
+<li>
+regression and stochastic process models
+</li>
+<li>
+nonparametric and semiparametric inference
+</li>
+<li>
+asymptotic efficiency
+</li>
+<li>
+missing data
+</li>
+</ul>
+</font></font></font><br><br>
+
+
+
+
+
+
+<font face="Helvetica, Arial, sans-serif"><font
+ style="color: rgb(51, 51, 153);" color="#000000"><font size="-1"><b>
+Published and accepted papers (refereed)</b>
+<br><p> [Most articles are listed in <a
+ href="https://mathscinet.ams.org/mathscinet/author?authorId=669696">MathSciNet</a>]</font>
+</font></font>
+</font><br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[xx] &nbsp;
+G. Dai, U.U. M&uuml;ller and R.J. Carroll (2024).
+Penalized regression with multiple loss functions and variable selection by voting. 
+To appear in:
+<a href="http://www3.stat.sinica.edu.tw/statistica/">
+<i>Statist. Sinica</i></a>.
+<br>
+41  pp. &nbsp; &nbsp;
+<a href="https://doi.org/10.5705/ss.202022.0391">doi</a>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[49] &nbsp;
+G. Dai, U.U. M&uuml;ller and R.J. Carroll (2023).
+Data integration in high dimension with multiple quantiles. 
+<a href="http://www3.stat.sinica.edu.tw/statistica/">
+<i>Statist. Sinica</i></a>, <b>33</b>, 169-192.
+<br>
+24 pp. &nbsp; &nbsp;  
+<a href="https://doi.org/10.5705/ss.202020.0361">doi</a>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[48] &nbsp;
+G. Dai and U.U. M&uuml;ller (2019).
+Efficient estimators for expectations in nonlinear parametric regression models
+with responses missing at random.
+<a href="https://www.imstat.org/journals-and-publications/electronic-journal-of-statistics">
+<i>Electron. J. Stat.</i></a>, <b>13</b>, 3985-4014.
+<br>
+30 pp. &nbsp; &nbsp; <a href="euclid.ejs.1570241096.pdf">.pdf</a> 
+&nbsp; &nbsp; 
+<a href="https://doi.org/10.1214/19-EJS1612">doi</a>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[47] &nbsp;
+U.U. M&uuml;ller and I. Van Keilegom (2019).
+Goodness-of-fit tests for the cure rate in a mixture cure model.
+<a href="https://academic.oup.com/biomet">
+<i>Biometrika</i></a>, <b>106</b>, 211-227.
+<br>
+17 pp.&nbsp; &nbsp; <a href="cr.pdf">.pdf</a> 
+&nbsp; &nbsp;&nbsp; <a href="cr-supplement.pdf">supplement (7 pp.)</a>
+&nbsp; &nbsp;
+<a href="https://doi.org/10.1093/biomet/asy058">doi</a>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[46] &nbsp;
+U.U. M&uuml;ller, H. Peng and A. Schick (2019).
+Inference about the slope in linear regression: an empirical likelihood
+approach.
+<a href="http://www.ism.ac.jp/editsec/aism/index.html">
+<i>Ann. Inst. Statist. Math.</i></a>, <b>71</b>, 181-211.
+<br>
+29 pp.&nbsp; &nbsp; <a href="slopewww.pdf">.pdf</a> &nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1007/s10463-017-0632-y">doi</a>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[45] &nbsp;
+J. Chown and U.U. M&uuml;ller (2018).
+Detecting heteroskedasticity in nonparametric regression 
+using weighted empirical processes.
+<a href="http://www.rss.org.uk/RSS/Publications/Journals/RSS/Publications/Journals_sub/Journals.aspx">
+<i> J. R. Stat. Soc.</i></a> Ser. B., <b>80</b>, 951-974.
+<br>
+<a href="proctest.pdf">article</a> (25 pp.) 
+&nbsp; <a href="https://doi.org/10.1111/rssb.12282">doi</a>
+ &nbsp; <a href="proctest-supplement.pdf">supplement</a> (3 pp.)
+&nbsp; &nbsp; <a href="corrigendumJRSSB2018.pdf">corrigendum</a> (2 pp.)
+&nbsp; 
+<a href="https://doi.org/10.1111/rssb.12324">doi</a>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[44] &nbsp;
+U.U. M&uuml;ller and A. Schick (2018).
+Efficiency for heteroscedastic regression with responses missing at random.
+<a href="http://www.journals.elsevier.com/journal-of-statistical-planning-and-inference/">
+<i>J. Statist. Plann. Inference</i></a>, <b>196</b>, 132-143.
+<br>
+18 pp.&nbsp; &nbsp; <a href="hetero.pdf">.pdf</a>
+ &nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1016/j.jspi.2017.11.002">doi</a>
+
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[43] &nbsp;
+H.L. Koul, U.U. Müller and A. Schick (2017). 
+Estimating the error distribution in a single-index model. 
+<a href="http://www.springer.com/us/book/9783319509853">
+<i>From Statistics to Mathematical Finance</i></a>, 
+Festschrift in Honour of Winfried Stute 
+(D. Ferger, W. Gonz&aacute;lez Manteiga, T. Schmidt, J.-L. Wang, eds.),
+Springer, 209-234.
+ <br>
+21 pp.&nbsp; &nbsp; <a href="stute.pdf">.pdf</a>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[42] &nbsp;
+ U.U. M&uuml;ller and A. Schick (2017).
+Efficiency transfer for regression models with responses missing at random.
+<a href="http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal-papers/">
+<i>Bernoulli</i></a>, <b>23</b>, 2693-2719.
+ <br>
+27 pp.&nbsp; &nbsp; <a href="BEJ824.pdf">.pdf</a> &nbsp;&nbsp;
+<a href="http://dx.doi.org/10.3150/16-BEJ824">doi</a>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[41] &nbsp;
+ U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2016).
+Density estimators for the convolution of discrete and continuous random 
+variables. 
+<a href="http://www.lsta.lab.upmc.fr/fr/annales_isup.html">
+<i>Ann. I.S.U.P.</i></a>, <b>60</b>, 55-65.
+<br>
+11 pp.&nbsp; &nbsp; <a href="mg.pdf">.pdf</a>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[40] &nbsp;
+ U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2015).
+ Estimators in step regression models.
+<a href="http://www.journals.elsevier.com/statistics-and-probability-letters/">
+<i>Statist. Probab. Lett.</i></a>, <b>100</b>, 124-129.
+ <br>
+ 10 pp.&nbsp; &nbsp; <a href="disco.pdf">.pdf</a> &nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1016/j.spl.2015.02.012">doi</a>
+</p>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[39] &nbsp;
+U.U. M&uuml;ller and W. Wefelmeyer (2014).
+Estimating a density under pointwise constraints on the derivatives. 
+<a
+ href="http://www.springer.com/statistics/statistical+theory+and+methods/journal/12004">
+<i>Math. Meth. Statist.</i></a>, <b>23</b>, 201-209.
+<br>
+11 pp.&nbsp; &nbsp; <a href="dc13.pdf">.pdf</a> &nbsp;&nbsp;
+<a href="http://dx.doi.org/10.3103/S106653071403003X">doi</a>
+<br>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[38] &nbsp;
+U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2014).
+Testing for additivity in partially linear regression with possibly missing
+responses.
+<a
+ href="http://www.journals.elsevier.com/journal-of-multivariate-analysis/">
+<i>J. Multivariate Anal.</i></a>, <b>128</b>, 51-61.
+<br>
+18 pp.&nbsp; &nbsp; <a href="testadd.pdf">.pdf</a>
+&nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1016/j.jmva.2014.03.003">doi</a>
+<br>
+
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[37] &nbsp;
+U.U. M&uuml;ller and I. Van Keilegom (2014).
+Efficient quantile regression with auxiliary information.
+<a href="  
+http://link.springer.com/book/10.1007/978-3-319-02651-0
+">
+<i>Contemporary Developments in Statistical Theory</i></a>,
+Springer Proceedings in Mathematics & Statistics,
+<b>68</b>, 365-374.
+<br>
+10 pp.&nbsp; &nbsp; <a href="qr-aux.pdf">.pdf</a> 
+&nbsp; &nbsp;
+<a href="http://dx.doi.org/10.1007/978-3-319-02651-0_23">doi</a> 
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000">
+<font size="-1">
+[36] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2014).
+Efficient estimators for alternating quasi-likelihood models.
+<a href="                                                      
+https://sites.google.com/site/indianstatisticalassociation/journal
+">
+<i>
+J. Indian Statist. Assoc.</i></a>, <b>52</b>, 1-17.
+<br>
+17 pp.&nbsp; &nbsp; <a href="quasialt.pdf">.pdf</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[35] &nbsp; J. Chown and U.U. M&uuml;ller (2013).
+Efficiently estimating the error distribution in nonparametric
+regression with responses missing at random. 
+<a href="  
+http://www.tandfonline.com/loi/gnst20">
+<i>J. Nonparametr. Statist.</i></a>, <b>25</b>, 3, 665-677.
+<br>
+15 pp.&nbsp; &nbsp; <a href="eff.pdf">.pdf</a> 
+&nbsp; &nbsp;
+<a href="http://dx.doi.org/10.1080/10485252.2013.795222">doi</a> 
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000">
+<font size="-1">
+[34] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2013).
+Non-standard behavior of density estimators for functions of independent 
+observations. In: Stochastic Modeling Techniques and Data Analysis 
+International Conference,
+<a href="   
+http://www.tandfonline.com/toc/lsta20/42/16#.UcRgj9FJzMU">
+<i>Comm. Statist. Theory Methods,
+</i></a><b> 42</b>, 2291-2300.
+<br>
+10 pp.&nbsp; &nbsp; <a href="m-smtda.pdf">.pdf</a>
+&nbsp; &nbsp; 
+<a href="http://dx.doi.org/10.1080/03610926.2012.762683">doi</a> 
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000">
+<font size="-1">
+[33] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2013).
+Variance bounds for estimators in autoregressive models with
+constraints. <a href="                                                      
+http://www.tandfonline.com/toc/gsta20/47/3">
+<i>Statistics</i>, <b>47</b>, 3</a>, 477-493.
+<br>
+21 pp.&nbsp; &nbsp; <a href="GSTA-2011-0055-revised.pdf">.pdf</a>
+&nbsp; &nbsp; 
+<a href="http://dx.doi.org/10.1080/02331888.2011.616932">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[32] &nbsp;
+J. Wei, R.J. Carroll, U.U. M&uuml;ller, I. Van Keilegom and N. Chatterjee 
+(2013).
+Robust Estimation for Homoscedastic Regression in the Secondary Analysis
+of Case-Control Data. <a href="                                     
+http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9868">
+<i>J. R. Stat. Soc. Ser. B</i></a>, <b>75</b>, 185-206.
+<br>
+22 pp. &nbsp; &nbsp; <a href="secondary.pdf">.pdf</a>
+&nbsp; &nbsp; 
+<a href="http://dx.doi.org/10.1111/j.1467-9868.2012.01052.x">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000">
+<font size="-1">
+[31] &nbsp; H.L. Koul, U.U. M&uuml;ller and A. Schick (2012).
+The transfer principle: a tool for complete case analysis.
+<a href="
+https://www.imstat.org/journals-and-publications/annals-of-statistics/
+">
+<i>Ann. Statist.</i></a>,
+<b>40</b>, 3031-3049.
+<br>
+19 pp.&nbsp;&nbsp; <a href="cca.pdf">.pdf</a> &nbsp; &nbsp;
+<a href="http://dx.doi.org/10.1214/12-AOS1061">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[30] &nbsp; U.U. M&uuml;ller and I. Van Keilegom (2012).
+Efficient parameter estimation in regression with missing responses.
+<a href="
+https://projecteuclid.org/all/euclid.ejs
+">
+<i>Electron. J. Stat.</i></a>, <b>6</b>, 1200-1219.
+<br>
+20 pp.&nbsp; &nbsp; <a href="EJS708.pdf">.pdf</a> 
+&nbsp;&nbsp; <a href="http://dx.doi.org/10.1214/12-EJS708">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000">
+<font size="-1">
+[29] &nbsp; U.U. M&uuml;ller (2012).
+Estimating the density of a possibly missing response variable
+in nonlinear regression. 
+<a href="http://www.journals.elsevier.com/journal-of-statistical-planning-and-inference/">
+<i>J. Statist. Plann. Inference</i></a>, <b>142</b>, 1198-1214.
+<br>
+28 pp.&nbsp;&nbsp; <a href="densMAR_www.pdf">.pdf</a>
+&nbsp;&nbsp;
+<a href="http://dx.doi.org/10.1016/j.jspi.2011.11.021">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[28] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2012).
+Estimating the error distribution function in semiparametric additive
+regression models.
+<a href="http://www.journals.elsevier.com/journal-of-statistical-planning-and-inference/">
+<i>J. Statist. Plann. Inference</i></a>, <b>142</b>, 552-566.
+<br>
+22 pp.&nbsp; &nbsp; <a href="sar.pdf">.pdf</a> 
+&nbsp; &nbsp; <a href="http://dx.doi.org/10.1016/j.jspi.2011.08.013">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[27] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2011).
+Optimal plug-in estimators for multivariate distributions
+with conditionally independent components.
+<!-- <a href="http://dx.doi.org/10.1080/10485252.2011.569713"> -->
+<a href="http://www.tandfonline.com/toc/gnst20/current">
+<i>J. Nonparametr. Statist.,</i></a> <span
+ style="font-weight: bold;">23</span>, 1031-1050. 
+<br>
+23 pp.&nbsp; &nbsp; <a href="m-conditional.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/10485252.2011.569713">doi</a>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[26] &nbsp; U.U. M&uuml;ller and W. Wefelmeyer (2010).
+Estimation in nonparametric regression with nonregular errors.
+In: Recent Advances in Statistical Inference. In Honor of Professor
+Masafumi Akahira
+(M. Aoshima, ed.),
+<a href="http://www.tandfonline.com/toc/lsta20/39/8-9">
+<i>Comm. Statist. Theory Methods</i></a>,
+<span style="font-weight: bold;">39</span>, 
+1619-1629.
+<br>
+13 pp.&nbsp;&nbsp; <a href="m-akahira.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/03610920802339833">doi</a>
+<br>
+</font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[25] &nbsp; U.U. M&uuml;ller (2009).
+Estimating linear functionals in nonlinear regression with responses
+missing at random. 
+<a href="
+https://www.imstat.org/journals-and-publications/annals-of-statistics/
+"><i>Ann. Statist.</i></a>,
+<span
+ style="font-weight: bold;">37</span>, 2245-2277.
+<br>
+33 pp.&nbsp;&nbsp; <a href="AOS642.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1214/08-AOS642">doi</a>
+<br>
+</font></font></font></p>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[24] &nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2009).
+Estimating the error distribution function in nonparametric regression 
+with multivariate covariates. 
+<a href="http://www.journals.elsevier.com/statistics-and-probability-letters/">
+<i>Statist. Probab. Lett.</i></a>,
+<span
+ style="font-weight: bold;">79</span>, 957-964.
+<br>
+11 pp.&nbsp;&nbsp; <a href="m-multi.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1016/j.spl.2008.11.024">doi</a>
+</font></font></font>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[23]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2009).
+Estimating the innovation distribution in nonparametric autoregression.
+<a href="http://www.springer.com/mathematics/probability/journal/440">
+<i>Probab. Theory Related Fields</i></a>, <span
+ style="font-weight: bold;">144</span>, 53-77.
+<br>
+25 pp.&nbsp; &nbsp; <a href="m-npar.pdf">.pdf</a>
+</font></font></font>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1007/s00440-008-0141-2">doi</a>
+</font></font></font>
+<br>
+
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[22]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2009).
+Estimators for alternating nonlinear autoregression.
+<a
+ href="http://www.journals.elsevier.com/journal-of-multivariate-analysis/">
+<span
+ style="font-style: italic;">
+J. Multivariate Anal.</span></a>, <span
+ style="font-weight: bold;">100</span>, 266-277.
+<br>
+19 pp.&nbsp; &nbsp; <a href="m-alt.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1016/j.jmva.2008.04.011">doi</a>
+</font></font></font>
+<br>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[21]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2008). 
+Estimators for partially observed Markov chains. 
+<span style="font-style: italic;"> <a
+ href="http://www.springer.com/west/home/birkhauser/applied+probability+and+statistics?SGWID=4-141502-22-97817240-0">Statistical
+Models and Methods for Biomedical and Technical
+Systems</a></span> (F. Vonta, M. Nikulin, N. Limnios and C. Huber,
+eds.), Birkh&auml;user, Boston, 423-438.</font></font></font><br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">15 pp.&nbsp;&nbsp; <a href="m-partial.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1007/978-0-8176-4619-6_29">doi</a>
+<br></font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[20]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2008).
+Optimality of estimators for misspecified semi-Markov models. 
+<a href="http://www.tandfonline.com/action/aboutThisJournal?journalCode=gssr20">
+<i>Stochastics</i></a>, <span
+ style="font-weight: bold;">80</span>, 2, 181-196.
+<br>
+13 pp.&nbsp; &nbsp; <a href="m-cindy.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/17442500701841008">doi</a>
+</font></font></font><font
+ face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"> <br>
+<br>
+
+[19]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2007).
+Estimating the error distribution function in semiparametric
+regression. 
+<i>Statist. Decisions</i>, 
+<span style="font-weight: bold;">25</span>, 1, 1-18.
+<br>
+21 pp.&nbsp;&nbsp;&nbsp; <a href="newcdf.pdf">.pdf</a>
+
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1524/stnd.2007.25.1.1 ">doi</a>
+</font></font></font><br>
+<b><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"></font></font></font></b><br>
+
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[18]&nbsp; U.U. M&uuml;ller (2007). Weighted
+least squares estimators in possibly misspecified nonlinear regression. 
+</font></font></font><font
+ face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><a
+ href="https://springer.com/journal/184"</a>
+<i>Metrika</i></a>, <b>66</b>, 39-59.</span>
+<br>
+</font></font></font><font face="Helvetica, Arial, sans-serif"><font
+ color="#000000"><font size="-1">22 pp.&nbsp;&nbsp;&nbsp; <a
+ href="m-misspecified.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1007/s00184-006-0092-5">doi</a>
+</font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[17]</font></font></font><font
+ face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2006).
+Efficient prediction for linear and nonlinear autoregressive models. <i><a
+ href="
+https://www.imstat.org/journals-and-publications/annals-of-statistics/
+">Ann. Statist.</i></a>, 
+<span style="font-weight: bold;">34</span>, 5,
+2496-2533.
+<br>
+38 pp.&nbsp;&nbsp;&nbsp; <a href="AOS0203.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1214/009053606000000812">doi</a>
+</font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[16]&nbsp; U.U. M&uuml;ller, A. Schick and
+W. Wefelmeyer (2006). Imputing responses that are not missing. <a
+ href="http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-10134-22-72684035-0,00.html"><span
+ style="font-style: italic;">Probability, Statistics and Modelling
+in Public Health</span></a>, Symposium in Honor of Marvin Zelen
+ (M. Nikulin, D. Commenges and C. Huber, eds.),  350-363, Springer.<br>
+14 pp.&nbsp;&nbsp;&nbsp; <a href="m-impute.pdf">.pdf</a>
+ &nbsp; &nbsp;<a href="
+https://link.springer.com/chapter/10.1007%2F0-387-26023-4_23
+">link</a>
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[15]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2005). Weighted residual-based density estimators for nonlinear
+autoregressive models.
+</font></font></font><font face="Helvetica, Arial, sans-serif"><font
+ color="#000000"><font size="-1"><a
+ href="http://www3.stat.sinica.edu.tw/statistica/">
+<i>Statist. Sinica</i></a>, <span style="font-weight: bold;">15</span>, 
+177-195. <br>
+20 pp.&nbsp;&nbsp;&nbsp; <a href="m-density.pdf">.pdf</a>
+ &nbsp; &nbsp;<a href="
+http://www3.stat.sinica.edu.tw/statistica/oldpdf/A15n111.pdf
+">link</a>
+</font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[14]&nbsp; P.E. Greenwood, U.U. M&uuml;ller and L.M. Ward
+(2004). Soft threshold stochastic resonance. <a
+ href="http://pre.aps.org/"><i>Phys. Rev. E.</i></a>,
+<span style="font-weight: bold;">70</span>, 051110. <br>
+20 pp.&nbsp;&nbsp;&nbsp; <a href="m-soft.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1103/PhysRevE.70.051110">doi</a>   
+</font></font></font></p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[13]&nbsp; P.E. Greenwood, U.U. M&uuml;ller and W.
+Wefelmeyer
+(2004). An introduction to efficient estimation for semiparametric time
+series. <a
+ href="http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-40292-22-29180089-detailsPage%253Dppmmedia%257Ctoc%257Ctoc,00.html"><i>Parametric
+and Semiparametric Models with Applications to Reliability, Survival
+Analysis, and Quality of Life</i></a> (M. S. Nikulin, N. Balakrishnan,
+M. Mesbah and N. Limnios, eds.), 253-272, Statistics for Industry and
+Technology, Birkh&auml;user, Basel. <br>
+16 pp.&nbsp;&nbsp;&nbsp; <a href="m-huber3.pdf">.pdf</a> 
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"> <font
+ size="-1">[12]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2004). Estimating functionals of the error distribution in parametric
+and nonparametric regression. <a href="http://www.tandfonline.com/toc/gnst20/current">
+<i>J. Nonparametr. Stat.</i></a>, <b>16</b>, 525-548. <br>
+25 pp.&nbsp;&nbsp;&nbsp; <a href="m-crete.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/10485250310001624846">doi</a>
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">
+[11]&nbsp; P.E. Greenwood, U.U. M&uuml;ller and W. Wefelmeyer
+(2004). Efficient estimation for semiparametric semi-Markov processes.
+In:
+Semi-Markov Processes and Their Applications (N. Limnios, ed.), <a
+ href="http://www.tandfonline.com/toc/lsta20/33/3">
+<i>Comm. Statist. Theory Meth.</i></a>, <b>33</b>, 419-435. <br>
+17 pp.&nbsp;&nbsp;&nbsp; <a href="m-limnios.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1081/STA-120028676">doi</a>    
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"> [10]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2004). Estimating linear functionals of the error distribution in
+nonparametric regression. <a
+ href="http://www.journals.elsevier.com/journal-of-statistical-planning-and-inference/">
+<i>J. Statist. Plann. Inference</i></a>, <b>119</b>, 75-93. <br>
+20 pp.&nbsp;&nbsp;&nbsp; <a href="m-error.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1016/S0378-3758(02)00412-3">doi</a>  
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[9]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2003). Estimating the error variance in nonparametric regression by a
+covariate-matched U-statistic. <a
+ href="http://www.tandfonline.com/toc/gsta20/current"><i>Statistics</i></a>, 
+<b>37</b>, 3, 179-188. <br>
+11 pp.&nbsp;&nbsp;&nbsp; <a href="m-var9.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/0233188031000078051">doi</a>  
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"> <font
+ size="-1">[8]&nbsp; U.U. M&uuml;ller and G. Osius (2003). Asymptotic
+normality of goodness-of-fit statistics for sparse Poisson data. <a
+ href="http://www.tandfonline.com/toc/gsta20/current"><i>Statistics</i></a>,
+<b>37</b>, 2,&nbsp; 119-143. <br>
+27 pp.&nbsp;&nbsp;&nbsp; <a href="m-gofRev2.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1080/0233188021000004620">doi</a>
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"> <font
+ size="-1"> [7]&nbsp; P.E. Greenwood, U.U. M&uuml;ller, L.M. Ward and
+W. Wefelmeyer
+(2003). Statistical analysis of stochastic resonance in a thresholded
+detector.
+<a
+ href="
+https://www.ajs.or.at/index.php/ajs
+"><i>Austrian J. Stat.</i></a>, <b>32</b>, 1 &amp; 2, 49 - 70. <br>
+22 pp.&nbsp;&nbsp;&nbsp; <a href="m-gmww5.pdf">.pdf</a> 
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[6]&nbsp; U.U. M&uuml;ller and W. Wefelmeyer (2002).
+Autoregression, estimating functions, and optimality criteria. In: <i>Advances
+in Statistics, Combinatorics and Related Areas</i> (C. Gulati,
+Y.-X. Lin, J. Rayner and S. Mishra, eds.), 180-195, World Scientific
+Publishing, Singapore. <br>
+16 pp.&nbsp;&nbsp;&nbsp; <a href="m-woll5.pdf">.pdf</a> 
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[5]&nbsp; U.U. M&uuml;ller and W. Wefelmeyer (2002).&nbsp;
+Estimators for models with constraints involving unknown parameters. <a
+ href="http://www.allertonpress.com/journals/mms.htm"><i>Math. Meth.
+Stat.</i></a>, <b>11</b>, 2,&nbsp; 221-235. <br>
+17 pp.&nbsp;&nbsp;&nbsp; <a href="m-unknown3.pdf">.pdf</a> 
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[4]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2001). Plug-in estimators in semiparametric stochastic process models.
+In: <i>Selected Proceedings of the Symposium on Inference for
+Stochastic Processes</i> (I. V. Basawa, C. C. Heyde and R. L. Taylor,
+eds.), 
+<a href="http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?handle=euclid.lnms/1215090692&view=body&content-type=pdf_1">
+213-234</a>, 
+<a
+ href="http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&page=toc&handle=euclid.lnms/1215090677">IMS Lecture
+Notes-Monograph Series</a>, <b>37</b>, Institute of Mathematical
+Statistics,&nbsp; Beachwood, Ohio. <br>
+22 pp.&nbsp;&nbsp;&nbsp; <a href="m-plug3.pdf">.pdf</a> 
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[3]&nbsp; U.U. M&uuml;ller, A. Schick and W. Wefelmeyer
+(2001). Improved estimators for constrained Markov chain models. <a
+ href="http://www.journals.elsevier.com/statistics-and-probability-letters/">
+<i>Statist. Probab. Lett.</i></a>, <b>54</b>, 4, 427-435. <br>
+9 pp.&nbsp;&nbsp;&nbsp; <a href="MSW-improved-SPL.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1016/S0167-7152(01)00121-3">doi</a>   
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[2]&nbsp; U.U. M&uuml;ller (2000). Nonparametric regression
+for threshold data. 
+<a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291708-945X"
+><i>Can. J. Stat.</i></a>,<b> 28</b>, 2, 301-310.
+<br>
+12 pp.&nbsp;&nbsp;&nbsp; <a href="muller.pdf">.pdf</a>
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.2307/3315980">doi</a>   
+</font></font></font>
+</p>
+
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">[1]&nbsp; U.U. M&uuml;ller and L.M. Ward (2000). Stochastic
+resonance in a statistical model of a time-integrating detector. <a
+ href="http://pre.aps.org/"><i>Phys. Rev. E</i></a>, <b>61</b>, 4, 4286-4294. 
+<br>
+9 pp.&nbsp;&nbsp;&nbsp; <a href="PRE04286.pdf">.pdf</a> 
+&nbsp; &nbsp;<a href="http://dx.doi.org/10.1103/PhysRevE.61.4286">doi</a>   
+</font></font></font>
+</p>
+
+
+<!--- 
+/ UNDER REVIEW / IN REVISION
+/--->
+
+
+
+
+
+<!---
+/ <br><br><br>
+/
+/ <p><b><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+/ size="-1"><span style="color: rgb(51, 51, 153);">Preprints
+/ </span>
+/ </font></font></font></b></p>
+/
+/ <p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+/  size="-1">
+/  U.U. M&uuml;ller and A. Schick.
+/ Efficiency transfer for regression models with responses missing at random.
+/  <br>
+/ 27 pp.&nbsp; &nbsp; <a href="et.pdf">.pdf</a>
+/ </p>
+/---> 
+
+
+<br><br><br>
+<p>
+<font face="Helvetica, Arial, sans-serif"><font
+ style="color: rgb(51, 51, 153);"
+ color="#000000"><font size="-1"><b>Theses </b>
+</font></font><br>
+</font>
+</p>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U.U. M&uuml;ller (2005). Optimal estimation in regression
+and autoregression models. Habilitationsschrift (cumulative),
+Universit&auml;t Bremen.<br>
+</font></font></font>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U. M&uuml;ller (1997). Asymptotic Normality of
+Goodness-of-Fit Statistics for Sparse Poisson and Case-Control Data.
+Doctoral thesis, Universit&auml;t Bremen.</font></font></font> <br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">150 pp. &nbsp;&nbsp;&nbsp; <a href="d97.pdf">.pdf</a>.</font></font></font>
+</p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U. M&uuml;ller (1993). Experimente zum Auffinden relevanter
+Einflussfaktoren. Diploma thesis, Freie Universit&auml;t Berlin.</font></font></font>
+<br>
+</p>
+<p><b><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><br>
+</font></font></font></b></p>
+
+
+
+<br>
+<p><b><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><span style="color: rgb(51, 51, 153);">Other </span></font></font></font></b><b><font
+ face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><span style="color: rgb(51, 51, 153);">papers and reports </span></font></font></font></b><b><font
+ face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><span style="color: rgb(51, 51, 153);">(not refereed)</span><br>
+</font></font></font></b></p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2007).
+Inference for alternating time series. In: <span
+ style="font-style: italic;">Recent Advances in Stochastic Modeling and
+Data Analysis</span> (C.H. Skiadas, ed.), 589-596, World Scientific,
+Singapore.</font></font></font><br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">8 pp.&nbsp;&nbsp;&nbsp; <a href="m-amsda2007a.pdf">.pdf</a></font></font></font></p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U.U. M&uuml;ller, A. Schick and W. Wefelmeyer (2004).
+Estimating the error distribution function in nonparametric regression.
+Technical report. Available in 
+<a href="http://arxiv.org/abs/1810.01645">arXiv:1810.01645</a>.
+<br> 
+20 pp.&nbsp;&nbsp;&nbsp; <a href="m-cdfsmooth.pdf">.pdf</a> </font></font></font>
+</p>
+<p> </p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U.U. M&uuml;ller (2000). Goodness-of-fit statistics for
+large
+numbers of cells. In: <span style="font-style: italic;">Second
+International Conference on Mathematical
+Models
+in Reliability</span>, Bordeaux, Universite Victor Sengalen, Bordeaux,
+France,
+July
+4-7, 2000. Abstracts Book, Vol. 2, pp. 792-795.</font></font></font> </p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U.U. M&uuml;ller (1999). Nonparametric regression for
+threshold data. Universit&auml;t Bremen, Mathematik-Arbeitspapiere A,
+52. </font></font></font><br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">18 pp.&nbsp;&nbsp;&nbsp;&nbsp; <a href="t1BR.pdf">.pdf</a>&nbsp;&nbsp;&nbsp;</font></font></font>
+</p>
+<p><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">U. M&uuml;ller and G. Osius (1998). Asymptotic normality of
+goodness-of-fit statistics for sparse Poisson data. Universit&auml;t
+Bremen, Mathematik-Arbeitspapiere A, 51.</font></font></font> <br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1">15 pp. </font></font></font><br>
+<br>
+</p>
+
+<!-- 
+<p><b><font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><span style="color: rgb(51, 51, 153);">Grant support
+</span>
+</font></font></font></b></p>
+July 2009 - August 2012: &nbsp;
+Principal Investigator, National Science Foundation grant DMS-0907014
+"Efficient Estimation in Semiparametric 
+Regression with Possibly Incomplete Data".
+-->
+
+<br><br>
+
+
+<hr width="100%">
+<address> <small><small style="font-style: italic;"><span
+ style="font-family: helvetica,arial,sans-serif;"><span
+ style="font-family: times new roman,times,serif;">&copy;<a
+ href="http://www.stat.tamu.edu/%7Euschi/">UU M&uuml;ller</a>, 
+last update: January 2024</span></span></small>
+</small><br>
+<font face="Helvetica, Arial, sans-serif"><font color="#000000"><font
+ size="-1"><br>
+</font></font></font></address>
+</body>
+</html>
